@@ -1,8 +1,8 @@
 from telethon.sync import TelegramClient
 import csv
 
-api_id =13745163 #your id telegram
-api_hash = 'e4e402f5419a64529d59064729729476' #your hash in telegram
+api_id =******** #your id telegram
+api_hash = '***********************' #your hash in telegram
 name = '@repteloed168' #your nickname in telegram
 chat = 'from0to1com' #channel name
 
